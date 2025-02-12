@@ -1,0 +1,10 @@
+{
+  "name": "remark_experiments",
+  "version": "1.0.0",
+  "description": "Parsing markdown with remark",
+  "main": "index.js",
+  "repository": "https://github.com/nertzy/remark_experiments",
+  "author": "Grant Hutchins <git@nertzy.com>",
+  "license": "MIT",
+  "private": true
+}
