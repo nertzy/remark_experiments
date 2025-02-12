@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "description": "Parsing markdown with remark",
   "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/nertzy/remark_experiments",
   "author": "Grant Hutchins <git@nertzy.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "mdast-util-from-markdown": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
 }
